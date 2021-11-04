@@ -6,7 +6,7 @@
 
 Vetor1 = []
 Vetor2 = []
-num = 5
+num = 20
 
 while num !=0:
     x = int(input('Digite um número: '))
